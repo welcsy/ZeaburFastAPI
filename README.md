@@ -45,8 +45,8 @@ This is a FastAPI-based RESTful API for controlling a Tuya Zigbee Fingerbot devi
    The requirements.txt includes:
    ```text
    tuya-connector-python==0.1.2
-   fastapi==0.115.2
-   dotenv==1.0.1
+   fastapi==0.115.12
+   dotenv==0.9.9
    uvicorn==0.34.3
    ```
 3. Set up environment variables: Create a .env file in the project root with the following:
